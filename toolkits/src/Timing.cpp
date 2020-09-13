@@ -1,7 +1,2 @@
 #include "Timing.h"
-
-
-
-namespace cytools {
-
-}
+#include "pch.h"
